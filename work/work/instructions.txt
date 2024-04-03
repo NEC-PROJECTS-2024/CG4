@@ -1,0 +1,15 @@
+
+unzip the files
+
+create virtual environment (env) :
+
+ for windows in vscode terminal:
+  step 0 : select select folder and select the spefic coding work folder
+  step 1 : python -m venv .venv
+  step 2 : cd .venv/
+  step 3 : cd ./scripts
+  step 4 : .\activate
+  after this in vscode terminal (.vev) which will appear
+  step 5 : pip install pip install opencv-python mediapipe pyautogui comtypes pycaw google protobuf screen-brightness-control cv2 mediapipe
+  step 6 : python main.py
+  step 7 : it will load the modules and project will opened
